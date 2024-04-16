@@ -1,0 +1,5 @@
+pypdf==4.2.0
+docx2txt==0.8
+nltk==3.8.1
+unicodedata2==15.1.0
+scikit-learn==1.4.2
